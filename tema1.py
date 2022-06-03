@@ -1,5 +1,6 @@
 #when we import hydralit, we automatically get all of Streamlit
 import hydralit as hy
+from hydralit import HydraApp
 
 app = hy.HydraApp(title='Simple Multi-Page App')
 
