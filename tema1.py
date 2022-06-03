@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 # +
 import streamlit as st
-import matplotlib.pyplot as plt
+
+from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt 
 import numpy as np
 import pandas as pd
 def f1(t):
